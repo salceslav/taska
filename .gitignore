@@ -19,6 +19,7 @@ target/
  target
  .DS_STORE /src/main/resources/log
 
+
 ### Eclipse ###
 .apt_generated
 .classpath
